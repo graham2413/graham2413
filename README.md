@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @graham2413
 - 👀 I am interested in Software Engineering and Full Stack Development.
-- 🌱 I am a recent Computer Science graduate from the University of Mississippi.
 - 📫 How to reach me --> christian.graham.norris@gmail.com OR 662-202-2907
 
 <!---
